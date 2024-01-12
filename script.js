@@ -14,24 +14,29 @@ const nextBtn = document.getElementById("next");
 // Music
 const songs = [
   {
-    name: "jacinto-1",
-    displayName: "Electric Chill Machine",
-    artist: "Mickey Mouse",
+    name: "best-jazz-club",
+    displayName: "The Best Jazz Club in New Orleans",
+    artist: "Paolo Argento",
   },
   {
-    name: "jacinto-2",
-    displayName: "Seven Nation Army (Remix)",
-    artist: "House",
+    name: "separation",
+    displayName: "Separation",
+    artist: "William King",
   },
   {
-    name: "jacinto-3",
-    displayName: "third",
-    artist: "Arboritum",
+    name: "risk",
+    displayName: "Risk",
+    artist: "Studio Kolomna",
   },
   {
-    name: "metric-1",
-    displayName: "Measure Up",
-    artist: "New Guys",
+    name: "guitar-electro-sport",
+    displayName: "Guitar Electro Sport- Trailer",
+    artist: "Gvidon",
+  },
+  {
+    name: "drive-breakbeat",
+    displayName: "Drive Breakbeat",
+    artist: "Rockot",
   },
 ];
 
