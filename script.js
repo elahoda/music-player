@@ -14,9 +14,26 @@ const nextBtn = document.getElementById("next");
 // Music
 const songs = [
   {
+    name: "epic-background-piano",
+    displayName: "Epic Background Piano",
+    artist: "White Records",
+  },
+
+  {
+    name: "cinematic-epic",
+    displayName: "Cinematic Epic",
+    artist: "Audio Coffee",
+  },
+
+  {
     name: "best-jazz-club",
     displayName: "The Best Jazz Club in New Orleans",
     artist: "Paolo Argento",
+  },
+  {
+    name: "drive-breakbeat",
+    displayName: "Drive Breakbeat",
+    artist: "Rockot",
   },
   {
     name: "separation",
@@ -32,11 +49,6 @@ const songs = [
     name: "guitar-electro-sport",
     displayName: "Guitar Electro Sport- Trailer",
     artist: "Gvidon",
-  },
-  {
-    name: "drive-breakbeat",
-    displayName: "Drive Breakbeat",
-    artist: "Rockot",
   },
 ];
 
